@@ -105,10 +105,12 @@ var app = builder.Build();
 
 // -------------------- Middleware --------------------
 
-    app.UseSwagger();
-    app.UseSwaggerUI();
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
+app.UseRouting();
+
 app.UseCors("AllowAngular");
 app.UseDeveloperExceptionPage();
 
