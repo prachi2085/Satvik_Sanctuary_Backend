@@ -110,7 +110,7 @@ var app = builder.Build();
 
 app.UseHttpsRedirection();
 app.UseCors("AllowAngular");
-
+app.UseDeveloperExceptionPage();
 
 app.UseAuthentication();
 app.UseAuthorization();
