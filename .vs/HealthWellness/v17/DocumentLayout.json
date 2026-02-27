@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Sathvic_Sanctuary\\HealthWellness\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|c:\\sathvic_sanctuary\\healthwellness\\healthwellness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|solutionrelative:healthwellness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|c:\\sathvic_sanctuary\\healthwellness\\healthwellness\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|solutionrelative:healthwellness\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|c:\\sathvic_sanctuary\\healthwellness\\healthwellness\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|solutionrelative:healthwellness\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|c:\\sathvic_sanctuary\\healthwellness\\healthwellness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|solutionrelative:healthwellness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|c:\\sathvic_sanctuary\\healthwellness\\healthwellness\\controllers\\healthformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -205,16 +205,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "dockerfile",
-              "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\dockerfile",
-              "RelativeDocumentMoniker": "HealthWellness\\dockerfile",
-              "ToolTip": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\dockerfile",
-              "RelativeToolTip": "HealthWellness\\dockerfile",
+              "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Dockerfile",
+              "RelativeDocumentMoniker": "HealthWellness\\Dockerfile",
+              "ToolTip": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Dockerfile",
+              "RelativeToolTip": "HealthWellness\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-27T07:25:52.378Z",
@@ -222,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\.gitignore",
               "RelativeDocumentMoniker": "HealthWellness\\.gitignore",
@@ -230,8 +230,7 @@
               "RelativeToolTip": "HealthWellness\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-27T06:57:20.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T06:57:20.649Z"
             },
             {
               "$type": "Document",
@@ -283,15 +282,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Program.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Program.cs",
               "ToolTip": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Program.cs",
               "RelativeToolTip": "HealthWellness\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T07:25:38.565Z"
+              "WhenOpened": "2026-02-17T07:25:38.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
