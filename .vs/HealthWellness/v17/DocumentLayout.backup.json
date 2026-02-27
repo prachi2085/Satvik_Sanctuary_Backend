@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Sathvic_Sanctuary\\HealthWellness\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|c:\\sathvic_sanctuary\\healthwellness\\healthwellness\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|solutionrelative:healthwellness\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|c:\\sathvic_sanctuary\\healthwellness\\healthwellness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EDBF717-A367-4DF5-ACC0-7FD9E5DB32C3}|HealthWellness\\HealthWellness.csproj|solutionrelative:healthwellness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -197,11 +201,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\.gitignore",
+              "RelativeDocumentMoniker": "HealthWellness\\.gitignore",
+              "ToolTip": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\.gitignore",
+              "RelativeToolTip": "HealthWellness\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-27T06:57:20.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HealthForm.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Models\\HealthForm.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Models\\HealthForm.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HealthFormController.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Controllers\\HealthFormController.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Controllers\\HealthFormController.cs",
@@ -225,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BookingDto.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\DTOs\\BookingDto.cs",
               "RelativeDocumentMoniker": "HealthWellness\\DTOs\\BookingDto.cs",
@@ -237,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IHealthService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Interfaces\\IHealthService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Interfaces\\IHealthService.cs",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Program.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Program.cs",
@@ -262,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Helpers\\ApiResponse.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Helpers\\ApiResponse.cs",
@@ -274,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HealthService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Services\\HealthService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Services\\HealthService.cs",
@@ -286,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HealthFormDto.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\DTOs\\HealthFormDto.cs",
               "RelativeDocumentMoniker": "HealthWellness\\DTOs\\HealthFormDto.cs",
@@ -298,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IArticleService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Interfaces\\IArticleService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Interfaces\\IArticleService.cs",
@@ -310,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "20260224140256_MakeUserIdNullable.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Migrations\\20260224140256_MakeUserIdNullable.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Migrations\\20260224140256_MakeUserIdNullable.cs",
@@ -322,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MediumController.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Controllers\\MediumController.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Controllers\\MediumController.cs",
@@ -334,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "20260222175346_AddNameToHealthForm.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Migrations\\20260222175346_AddNameToHealthForm.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Migrations\\20260222175346_AddNameToHealthForm.cs",
@@ -346,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "20260224123058_AddEmailtoHeathForm.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Migrations\\20260224123058_AddEmailtoHeathForm.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Migrations\\20260224123058_AddEmailtoHeathForm.cs",
@@ -358,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ArticlesController.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Controllers\\ArticlesController.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Controllers\\ArticlesController.cs",
@@ -370,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MediumService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Services\\MediumService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Services\\MediumService.cs",
@@ -382,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AnnouncementService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Services\\AnnouncementService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Services\\AnnouncementService.cs",
@@ -394,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Services\\AuthService.cs",
@@ -406,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ArticleService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Services\\ArticleService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Services\\ArticleService.cs",
@@ -418,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\appsettings.json",
               "RelativeDocumentMoniker": "HealthWellness\\appsettings.json",
@@ -430,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Controllers\\UserController.cs",
@@ -442,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IAnnouncementService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Interfaces\\IAnnouncementService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Interfaces\\IAnnouncementService.cs",
@@ -454,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Interfaces\\IUserService.cs",
@@ -466,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Models\\Article.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Models\\Article.cs",
@@ -478,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Services\\UserService.cs",
@@ -490,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "20260218081319_FinalSecureSchemaUpdate.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Migrations\\20260218081319_FinalSecureSchemaUpdate.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Migrations\\20260218081319_FinalSecureSchemaUpdate.cs",
@@ -502,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ChatController.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Controllers\\ChatController.cs",
@@ -514,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AnnouncementController.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Controllers\\AnnouncementController.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Controllers\\AnnouncementController.cs",
@@ -526,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Controllers\\BookingController.cs",
@@ -538,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Controllers\\AuthController.cs",
@@ -550,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AIService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Services\\AIService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Services\\AIService.cs",
@@ -562,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "BookingService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Services\\BookingService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Services\\BookingService.cs",
@@ -574,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "WellnessDbContext.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Data\\WellnessDbContext.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Data\\WellnessDbContext.cs",
@@ -586,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Interfaces\\IAuthService.cs",
@@ -598,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IAIService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Interfaces\\IAIService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Interfaces\\IAIService.cs",
@@ -610,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IBookingService.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Interfaces\\IBookingService.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Interfaces\\IBookingService.cs",
@@ -622,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\DTOs\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "HealthWellness\\DTOs\\AuthResponseDto.cs",
@@ -634,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "AnnouncementDto.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\DTOs\\AnnouncementDto.cs",
               "RelativeDocumentMoniker": "HealthWellness\\DTOs\\AnnouncementDto.cs",
@@ -646,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ChatDto.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\DTOs\\ChatDto.cs",
               "RelativeDocumentMoniker": "HealthWellness\\DTOs\\ChatDto.cs",
@@ -658,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "HealthWellness\\DTOs\\RegisterDto.cs",
@@ -670,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ArticleDto.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\DTOs\\ArticleDto.cs",
               "RelativeDocumentMoniker": "HealthWellness\\DTOs\\ArticleDto.cs",
@@ -682,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "HealthWellness\\DTOs\\UserDto.cs",
@@ -694,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Announcement.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Models\\Announcement.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Models\\Announcement.cs",
@@ -706,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ChatMessage.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Models\\ChatMessage.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Models\\ChatMessage.cs",
@@ -718,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Models\\Booking.cs",
@@ -730,7 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Models\\User.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Models\\User.cs",
@@ -742,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "20260218065917_AddMediumUrlToArticles.cs",
               "DocumentMoniker": "C:\\Sathvic_Sanctuary\\HealthWellness\\HealthWellness\\Migrations\\20260218065917_AddMediumUrlToArticles.cs",
               "RelativeDocumentMoniker": "HealthWellness\\Migrations\\20260218065917_AddMediumUrlToArticles.cs",
@@ -754,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "HealthWellness_Frontend.sln",
               "DocumentMoniker": "C:\\Users\\Prachi Malhotra\\OneDrive\\Desktop\\HealthWellness\\HealthWellness_Frontend\\HealthWellness_Frontend.sln",
               "RelativeDocumentMoniker": "..\\..\\Users\\Prachi Malhotra\\OneDrive\\Desktop\\HealthWellness\\HealthWellness_Frontend\\HealthWellness_Frontend.sln",
