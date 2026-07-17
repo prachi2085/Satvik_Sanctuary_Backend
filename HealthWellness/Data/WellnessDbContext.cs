@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using HealthWellness.Models;
 
 namespace HealthWellness.Data
@@ -12,6 +12,7 @@ namespace HealthWellness.Data
         public DbSet<Article> Articles { get; set; }
         public DbSet<HealthForm> HealthForms { get; set; }
         public DbSet<Booking> Bookings { get; set; }
+        public DbSet<Order> Orders { get; set; }
         public DbSet<Announcement> Announcements { get; set; }
         public DbSet<ChatMessage> ChatMessages { get; set; }
 

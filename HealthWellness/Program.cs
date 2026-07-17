@@ -1,4 +1,4 @@
-﻿using HealthWellness.Data;
+using HealthWellness.Data;
 using HealthWellness.Interfaces;
 using HealthWellness.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -29,6 +29,8 @@ builder.Services.AddScoped<IArticleService, ArticleService>();
 builder.Services.AddScoped<IHealthService, HealthService>();
 builder.Services.AddScoped<IAnnouncementService, AnnouncementService>();
 builder.Services.AddScoped<IBookingService, BookingService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<OrderService>();
 builder.Services.AddScoped<IAIService, AIService>();
 builder.Services.AddHttpClient<MediumService>();
 builder.Services.AddScoped<MediumService>();
