@@ -15,8 +15,9 @@ namespace HealthWellness.Data
         public DbSet<Order> Orders { get; set; }
         public DbSet<Announcement> Announcements { get; set; }
         public DbSet<ChatMessage> ChatMessages { get; set; }
+        public DbSet<SessionRegistration> SessionRegistrations { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>()
                 .HasMany(u => u.HealthForms)
