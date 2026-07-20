@@ -42,7 +42,9 @@ builder.Services.AddCors(options =>
         policy =>
         {
             policy.WithOrigins("http://localhost:4200",
-                "https://satvik-sanctuary.vercel.app")
+                "https://satvik-sanctuary.vercel.app",
+                "https://satviksanctuary.in",
+                "https://www.satviksanctuary.in")
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
@@ -113,7 +115,7 @@ app.UseHttpsRedirection();
 app.UseRouting();
 
 app.UseCors("AllowAngular");
-app.UseDeveloperExceptionPage();
+//app.UseDeveloperExceptionPage();
 
 app.UseAuthentication();
 app.UseAuthorization();
